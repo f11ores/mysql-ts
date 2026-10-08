@@ -24,7 +24,6 @@ Features
 * Connect to MySQL using a connection pool
 
 Project Structure
-
 src/
 ├── app.ts
 ├── server.ts
