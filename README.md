@@ -24,6 +24,9 @@ Features
 * Connect to MySQL using a connection pool
 
 Project Structure
+
+
+```text
 src/
 ├── app.ts
 ├── server.ts
@@ -34,6 +37,8 @@ src/
 │   └── products.routes.ts
 └── controllers/
     └── products.controller.ts
+```
+
 
 Database
 
